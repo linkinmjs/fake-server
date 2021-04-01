@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "ice-cream",
+      "precio": "500",
+      "id": 6
+    },
+    {
+      "nombre": "productito",
+      "precio": 200,
+      "id": 12
+    },
+    {
+      "nombre": "productote",
+      "precio": 300,
+      "id": 13
+    },
+    {
+      "nombre": "vodka barato",
+      "precio": 200,
+      "id": 14
+    },
+    {
+      "nombre": "vodka caro",
+      "precio": 800,
+      "id": 15
+    },
+    {
+      "nombre": "Último producto",
+      "precio": 150,
+      "id": 16
+    }
+  ]
+}
